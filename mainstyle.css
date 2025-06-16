@@ -166,6 +166,7 @@ span.s-accent{
   height: 15px;
   background: url('./images/vprev.png') no-repeat;
   cursor: pointer;
+  font-size:0;
 }
 #land-slide .ctr .vnext {
   width: 27px;
